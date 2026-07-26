@@ -31,7 +31,7 @@ Second-year Information Technology undergraduate at **St. Joseph's Institute of 
 
 - ☁️ **Cloud Capabilities:** AWS Academy Certified in *Cloud Foundations*, *Cloud Operations*, and *ML for NLP*. Practical exposure to Amazon EC2, S3, IAM, and Linux CLI environment.
 - 🧩 **Problem Solving:** 500+ logic-building problems solved across SkillRack & LeetCode.
-- 🎯 **Current Focus:** Containerization, infrastructure automation, and backend workflows.
+
 
 ---
 
