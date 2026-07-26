@@ -1,100 +1,47 @@
-<div align="center">
+# Zubair Ahmed A.B
+**Second-Year Information Technology Undergraduate**  
+*St. Joseph's Institute of Technology, Chennai*
 
-  <h1><b>ZUBAIR AHMED A.B</b></h1>
-
-  <p><b>Second-Year B.Tech IT | Cloud & DevOps Explorer | AWS Academy Graduate</b></p>
-
-  <!-- BADGE ROW (OmniRoute Style) -->
-  <p>
-    <a href="https://linkedin.com/in/zubair-ahmed-98z">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:zub.airrr.mail@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-8B5CF6?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-06B6D4?style=for-the-badge" alt="Problems" />
-  </p>
-
-  <!-- DYNAMIC TYPING HEADER -->
-  <a href="https://github.com/crypt-zubair">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&color=8B5CF6&center=true&vcenter=true&width=550&height=40&lines=Engineering+Cloud+Architecture;Architecting+Scalable+Logic;Exploring+DevOps+Pipelines;AWS+Academy+Trained&speed=8" alt="Typing Header" />
-  </a>
-
-</div>
-
-<br />
+[LinkedIn](https://linkedin.com/in/zubair-ahmed-98z) • [GitHub](https://github.com/crypt-zubair) • [Email](mailto:zub.airrr.mail@gmail.com)
 
 ---
 
-## 📌 About Me
+## Overview
 
-I am a second-year Information Technology undergraduate at **St. Joseph's Institute of Technology, Chennai**, focused on building strong foundations in **Cloud Computing**, **Linux Systems**, and **Data Structures & Algorithms**.
+Information Technology undergraduate building technical foundations in **Cloud Computing**, **Linux Systems**, and **Data Structures & Algorithms**. 
 
-- ☁️ **Cloud Expertise:** AWS Academy Trained in *Cloud Foundations*, *Cloud Operations*, and *ML for NLP*.
-- 🛠️ **Hands-On Skills:** Core experience with Amazon EC2, S3, IAM policies, and Linux CLI environment.
-- 🧩 **Problem Solving:** 500+ logic-building problems solved across SkillRack & LeetCode.
-- 🎯 **Current Focus:** Containerization, infrastructure concepts, and backend application workflows.
+- **Cloud & DevOps:** AWS Academy trained in *Cloud Foundations*, *Cloud Operations*, and *ML for NLP*. Practical exposure to Amazon EC2, S3, IAM, and Linux CLI environment.
+- **Problem Solving:** 500+ logic-building and algorithmic problems solved across SkillRack & LeetCode.
+- **Core Languages:** Python, C, C# (Basics).
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+## Technical Skills
 
-<div align="center">
-
-| Domain | Technologies & Tools |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `C` `C# (Basics)` |
-| **Cloud & DevOps** | `AWS (EC2, S3, IAM)` `Linux CLI` `Git` `GitHub` |
-| **CS Fundamentals** | `Data Structures` `Algorithms` `Logic Building` |
-| **Web Basics** | `HTML5` `CSS3` |
-| **IDE / Tools** | `VS Code` |
-
-<br />
-
-<!-- INTERACTIVE SKILL ICONS WITH HOVER EFFECT -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,aws,linux,git,github,vscode,html,css,bash&theme=dark&perline=5" alt="Tech Stack" />
-  </a>
-</p>
-
-</div>
+| **Languages** | Python, C, C# (Basics) |
+| **Cloud & Systems** | AWS (EC2, S3, IAM), Linux CLI, Git, GitHub |
+| **Core CS** | Data Structures, Algorithms, Logic Building |
+| **Frontend Basics** | HTML, CSS |
+| **Environment** | VS Code, Linux Shell |
 
 ---
 
-## 📈 GitHub Analytics & Status
+## Education
 
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <!-- STATS CARD -->
-        <a href="https://github.com/crypt-zubair">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=crypt-zubair&show_icons=true&theme=tokyonight&hide_border=false&border_color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E2E8F0" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <!-- TOP LANGUAGES CARD -->
-        <a href="https://github.com/crypt-zubair">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&theme=tokyonight&hide_border=false&border_color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <!-- STREAK BOX CARD -->
-  <a href="https://github.com/crypt-zubair">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crypt-zubair&theme=dark&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=06B6D4&fire=8B5CF6&currStreakNum=06B6D4&sideNums=E2E8F0&sideTitle=8B5CF6&currStreakLabel=06B6D4&hide_border=false" alt="GitHub Streak Box" />
-  </a>
-
-</div>
+- **B.Tech — Information Technology** | *St. Joseph's Institute of Technology* (Graduation: May 2029)
+  - **CGPA:** 8.469 / 10.0
+- **Higher Secondary (12th Grade)** | *Maria Matriculation Higher Secondary School* (2024)
+  - **Percentage:** 75.2%
+- **Secondary School (10th Grade)** | *Maria Matriculation Higher Secondary School* (2022)
+  - **Percentage:** 82.8%
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/crypt-zubair">Zubair Ahmed A.B</a></sub>
-</div>
+## Certifications
+
+- **AWS Academy Cloud Foundations** — Amazon Web Services
+- **AWS Academy Cloud Operations** — Amazon Web Services
+- **AWS Academy Cloud Machine Learning for NLP** — Amazon Web Services
+- **Python for Data Science** — NPTEL Online Certification
