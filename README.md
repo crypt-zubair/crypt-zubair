@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- 1. Scrolling Text / IG Lyrics Style Banner -->
+  <!-- 1. INSTAGRAM LYRICS/TICKER STYLE SCROLLING BANNER -->
   <svg width="100%" height="45" viewBox="0 0 600 45" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
       .rolling-text {
-        font-family: 'Segoe UI', Ubuntu, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
         font-weight: 700;
-        font-size: 16px;
+        font-size: 15px;
         fill: #00F0FF;
         animation: scrollText 12s linear infinite;
         white-space: nowrap;
@@ -17,8 +17,8 @@
       }
       .bg-rect {
         fill: #0D1117;
-        rx: 8px;
-        stroke: #30363D;
+        rx: 10px;
+        stroke: #1F242C;
         stroke-width: 1;
       }
     </style>
@@ -30,14 +30,14 @@
 
   <br /><br />
 
-  <!-- 2. Fast Typing Text (Speed adjusted to fast: speed=15) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=7928CA&center=true&vcenter=true&width=500&height=40&lines=Welcome+to+my+Engineering+Lab!;Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=15" alt="Fast Typing Header" />
+  <!-- 2. FAST TYPING BANNER (speed=10, pause=400) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=400&color=00F0FF&center=true&vcenter=true&width=500&height=40&lines=Welcome+to+my+Engineering+Lab!;Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=10" alt="Fast Typing Header" />
 
   <p align="center">
     <b>IT Undergraduate</b> | <b>AWS Academy Graduate</b> | <b>Logic & Systems Enthusiast</b>
   </p>
 
-  <!-- Interactive Glowing Badges -->
+  <!-- INTERACTIVE BADGES -->
   <a href="https://linkedin.com/in/zubair-ahmed-98z">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -53,16 +53,16 @@
 
 ### 🚀 About Me
 - 🎓 **Academic Status:** B.Tech IT Undergraduate at *St. Joseph's Institute of Technology, Chennai*.
-- ☁️ **Cloud Capabilities:** AWS Academy Certified in *Cloud Foundations, Cloud Operations, and ML for NLP*.
-- ⚙️ **Core Focus:** Hands-on experience with EC2, S3, IAM, Linux CLI, and Data Structures & Algorithms.
+- ☁️ **Cloud Capabilities:** AWS Academy Certified in *Cloud Foundations, Operations & ML for NLP*.
+- ⚙️ **Core Exposure:** Hands-on experience with EC2, S3, IAM, Linux CLI, and Data Structures & Algorithms.
 - 🎯 **Target:** Engineering scalable cloud solutions and production-grade architectures.
 
 ---
 
-### 🛠️ Tech Stack & Interactive Hover Icons
+### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Interactive icons with hover zoom built into skillicons -->
+  <!-- Clean Hover Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,aws,linux,git,github,vscode,html,css,bash&theme=dark&perline=5" alt="Tech Stack" />
   </a>
@@ -74,14 +74,14 @@
 
 <div align="center">
 
-  <!-- Main GitHub Stats Card -->
+  <!-- BORDERLESS STATS CARD (Tokyonight / Border Removed) -->
   <a href="https://github.com/crypt-zubair">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&theme=dracula&border_radius=10&hide_border=false&border_color=7928CA" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF" alt="GitHub Stats" />
   </a>
 
-  <!-- Top Languages Card -->
+  <!-- BORDERLESS TOP LANGUAGES CARD -->
   <a href="https://github.com/crypt-zubair">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&theme=dracula&border_radius=10&hide_border=false&border_color=7928CA" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" />
   </a>
 
 </div>
@@ -89,8 +89,8 @@
 <br />
 
 <div align="center">
-  <!-- GitHub Commit Streak Card -->
+  <!-- BORDERLESS STREAK CARD -->
   <a href="https://github.com/crypt-zubair">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crypt-zubair&theme=dracula&border_radius=10&border=7928CA" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=crypt-zubair&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007A&currStreakNum=00F0FF" alt="GitHub Streak" />
   </a>
 </div>
