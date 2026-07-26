@@ -1,37 +1,12 @@
 <div align="center">
 
-  <!-- 1. INSTAGRAM LYRICS/TICKER STYLE SCROLLING BANNER -->
-  <svg width="100%" height="45" viewBox="0 0 600 45" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .rolling-text {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        font-weight: 700;
-        font-size: 15px;
-        fill: #00F0FF;
-        animation: scrollText 12s linear infinite;
-        white-space: nowrap;
-      }
-      @keyframes scrollText {
-        0% { transform: translateX(100%); }
-        100% { transform: translateX(-100%); }
-      }
-      .bg-rect {
-        fill: #0D1117;
-        rx: 10px;
-        stroke: #1F242C;
-        stroke-width: 1;
-      }
-    </style>
-    <rect width="100%" height="45" class="bg-rect" />
-    <text x="0" y="28" class="rolling-text">
-      🎵 NOW PLAYING: Zubair Ahmed A.B — B.Tech IT Student ⚡ Cloud & DevOps Explorer ⚡ AWS Trained ⚡ 500+ Algorithmic Problems Solved ⚡
-    </text>
-  </svg>
+  <!-- 1. INSTAGRAM-STYLE TICKER / ROLLING BANNER (Via Clean External SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=16&pause=0&color=00F0FF&center=true&vcenter=true&width=600&height=45&lines=%F0%9F%8C%9F+Zubair+Ahmed+A.B+%E2%80%94+B.Tech+IT+Student;%E2%9A%A1+Cloud+%26+DevOps+Explorer;%E2%9A%A1+AWS+Academy+Graduate;%E2%9A%A1+500%2B+Algorithmic+Problems+Solved&speed=12" alt="Rolling Banner" />
 
   <br /><br />
 
-  <!-- 2. FAST TYPING BANNER (speed=10, pause=400) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=400&color=00F0FF&center=true&vcenter=true&width=500&height=40&lines=Welcome+to+my+Engineering+Lab!;Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=10" alt="Fast Typing Header" />
+  <!-- 2. FAST TYPING BANNER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=300&color=7000FF&center=true&vcenter=true&width=500&height=40&lines=Welcome+to+my+Engineering+Lab!;Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=8" alt="Fast Typing Header" />
 
   <p align="center">
     <b>IT Undergraduate</b> | <b>AWS Academy Graduate</b> | <b>Logic & Systems Enthusiast</b>
@@ -59,10 +34,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Clean Hover Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,aws,linux,git,github,vscode,html,css,bash&theme=dark&perline=5" alt="Tech Stack" />
   </a>
@@ -70,27 +44,12 @@
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 Key Technical Metrics
 
 <div align="center">
 
-  <!-- BORDERLESS STATS CARD (Tokyonight / Border Removed) -->
-  <a href="https://github.com/crypt-zubair">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF" alt="GitHub Stats" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FF007A?style=for-the-badge&labelColor=0D1117" alt="Problems Solved Badge" />
+  <img src="https://img.shields.io/badge/AWS%20Training-3%20Certifications-7000FF?style=for-the-badge&labelColor=0D1117" alt="AWS Certifications Badge" />
 
-  <!-- BORDERLESS TOP LANGUAGES CARD -->
-  <a href="https://github.com/crypt-zubair">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <!-- BORDERLESS STREAK CARD -->
-  <a href="https://github.com/crypt-zubair">
-    <img src="https://streak-stats.demolab.com?user=crypt-zubair&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007A&currStreakNum=00F0FF" alt="GitHub Streak" />
-  </a>
 </div>
