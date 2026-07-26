@@ -2,7 +2,7 @@
 
   <!-- 1. ANIMATED TYPING HEADER -->
   <a href="https://github.com/crypt-zubair">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=A855F7&center=true&vcenter=true&width=550&height=40&lines=Zubair+Ahmed+A.B;Cloud+%26+DevOps+Explorer;AWS+Academy+Graduate;500%2B+Logic+Problems+Solved&speed=10" alt="Animated Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=A855F7&center=true&vcenter=true&width=550&height=40&lines=Zubair+Ahmed+A.B;Cloud+%26+DevOps+Explorer;500%2B+Logic+Problems+Solved&speed=10" alt="Animated Typing Header" />
   </a>
 
   <p align="center">
