@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- 1. TRUE CONTINUOUS ROLLING MARQUEE (Zero Code Leak, Pure Rolling Text) -->
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='45' viewBox='0 0 600 45'><rect width='100%' height='45' fill='%230D1117' rx='10' stroke='%231F242C' stroke-width='1'/><g><text x='0' y='28' fill='%2300F0FF' font-family='sans-serif' font-weight='700' font-size='15'><animateTransform attributeName='transform' type='translate' from='600,0' to='-900,0' dur='10s' repeatCount='indefinite'/>🎵 NOW PLAYING: Zubair Ahmed A.B — B.Tech IT Student ⚡ Cloud & DevOps Explorer ⚡ AWS Trained ⚡ 500+ Algorithmic Problems Solved ⚡</text></g></svg>" alt="Rolling Marquee Banner" />
-
-  <br /><br />
+  <!-- 1. HIGH-SPEED TYPING HEADER (Majestic Purple Accent) -->
+  <a href="https://github.com/crypt-zubair">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=400&color=A855F7&center=true&vcenter=true&width=550&height=40&lines=Welcome+to+my+Engineering+Lab!;Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=8" alt="Typing Header" />
+  </a>
 
   <p align="center">
     <b>IT Undergraduate</b> | <b>AWS Academy Graduate</b> | <b>Logic & Systems Enthusiast</b>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools (Interactive Hover Scale)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,12 +41,40 @@
 
 ---
 
-### 📊 Technical Metrics & Status
+### 📊 GitHub Activity & Streak Analytics
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FF007A?style=for-the-badge&labelColor=0D1117" alt="Problems Solved Badge" />
+  <!-- MAIN GITHUB STATS BOX (Majestic Purple Glow & Dark Translucent BG) -->
+  <a href="https://github.com/crypt-zubair">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=crypt-zubair&show_icons=true&theme=tokyonight&hide_border=false&border_color=A855F7&bg_color=0D1117&title_color=A855F7&icon_color=00F0FF&text_color=E2E8F0" alt="GitHub Stats" />
+  </a>
+
+  <!-- TOP LANGUAGES BOX (Majestic Purple Glow & Dark Translucent BG) -->
+  <a href="https://github.com/crypt-zubair">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&theme=tokyonight&hide_border=false&border_color=A855F7&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- GITHUB STREAK BOX (Glowing Purple Border & Neon Fire Accent) -->
+  <a href="https://github.com/crypt-zubair">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crypt-zubair&theme=dark&background=0D1117&border=A855F7&stroke=A855F7&ring=00F0FF&fire=A855F7&currStreakNum=00F0FF&sideNums=E2E8F0&sideTitle=A855F7&currStreakLabel=00F0FF&hide_border=false" alt="GitHub Streak Box" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- METRIC BADGES -->
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-A855F7?style=for-the-badge&labelColor=0D1117" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Problems Solved Badge" />
   <img src="https://img.shields.io/badge/AWS%20Training-3%20Certifications-7000FF?style=for-the-badge&labelColor=0D1117" alt="AWS Certifications Badge" />
 
 </div>
