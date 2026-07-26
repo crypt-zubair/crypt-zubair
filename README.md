@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- 1. LINE-BY-LINE LYRICS DISPLAY (Smooth Fade-In / Collapse Roll) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=50&lines=%F0%9F%8E%B5+Zubair+Ahmed+A.B+%E2%80%94+B.Tech+IT+Undergraduate;%E2%9A%A1+Cloud+%26+DevOps+Explorer;%F0%9F%8E%AF+AWS+Academy+Graduate+(Foundations%2C+Ops%2C+NLP);%F0%9F%92%A1+500%2B+Logic+Problems+Solved+Across+Platforms&speed=15" alt="Lyric Style Header" />
+  <!-- 1. TRUE CONTINUOUS ROLLING MARQUEE (Zero Code Leak, Pure Rolling Text) -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='45' viewBox='0 0 600 45'><rect width='100%' height='45' fill='%230D1117' rx='10' stroke='%231F242C' stroke-width='1'/><g><text x='0' y='28' fill='%2300F0FF' font-family='sans-serif' font-weight='700' font-size='15'><animateTransform attributeName='transform' type='translate' from='600,0' to='-900,0' dur='10s' repeatCount='indefinite'/>🎵 NOW PLAYING: Zubair Ahmed A.B — B.Tech IT Student ⚡ Cloud & DevOps Explorer ⚡ AWS Trained ⚡ 500+ Algorithmic Problems Solved ⚡</text></g></svg>" alt="Rolling Marquee Banner" />
 
-  <br />
-
-  <!-- 2. FAST TYPING SUB-HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=7000FF&center=true&vcenter=true&width=500&height=35&lines=Building+Cloud+Infrastructure;Solving+Logic+%26+Algorithms;Optimizing+DevOps+Pipelines&speed=10" alt="Fast Sub-Header" />
+  <br /><br />
 
   <p align="center">
     <b>IT Undergraduate</b> | <b>AWS Academy Graduate</b> | <b>Logic & Systems Enthusiast</b>
