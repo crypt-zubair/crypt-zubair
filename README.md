@@ -34,7 +34,6 @@ Second-year Information Technology undergraduate at **St. Joseph's Institute of 
 
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
