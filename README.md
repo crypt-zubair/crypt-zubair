@@ -1,64 +1,68 @@
 <div align="center">
 
-  <!-- 1. ANIMATED TYPING HEADER -->
-  <a href="https://github.com/crypt-zubair">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=500&color=A855F7&center=true&vcenter=true&width=550&height=40&lines=Zubair+Ahmed+A.B;Cloud+%26+DevOps+Explorer;500%2B+Logic+Problems+Solved&speed=10" alt="Animated Typing Header" />
-  </a>
+# Zubair Ahmed A. B.
 
-  <p align="center">
-    <b>IT Undergraduate</b> | <b>AWS Certified Learner</b> | <b>Logic & Systems Enthusiast</b>
-  </p>
+### IT Undergraduate · Developer · Cloud & AI Explorer
 
-  <!-- BADGES -->
-  <p>
-    <a href="https://linkedin.com/in/zubair-ahmed-98z">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:zub.airrr.mail@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+I build practical projects, solve problems, and keep learning how software works under the hood.
+
+[![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-181717?style=flat-square&logo=github)](https://github.com/crypt-zubair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zubair-ahmed-98z)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zub.airrr.mail@gmail.com)
 
 </div>
 
-<br />
-
 ---
 
-## 📌 Overview
+## About
 
-Second-year Information Technology undergraduate at **St. Joseph's Institute of Technology, Chennai**, building technical foundations in **Cloud Computing**, **Linux Systems**, and **Data Structures & Algorithms**.
+I'm an Information Technology undergraduate at **St. Joseph's Institute of Technology, Chennai**. I'm interested in software development, cloud computing, AI-powered tools, and problem solving.
 
-- ☁️ **Cloud Capabilities:** AWS Academy Certified in *Cloud Foundations*, *Cloud Operations*, and *ML for NLP*. Practical exposure to Amazon EC2, S3, IAM, and Linux CLI environment.
-- 🧩 **Problem Solving:** 500+ logic-building problems solved across SkillRack & LeetCode.
+- Building projects that solve practical problems
+- Practising data structures, algorithms, and SQL
+- Exploring cloud infrastructure, Linux, and automation
+- Learning by shipping projects and contributing to open source
 
+## Tech I work with
 
----
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <!-- 2. INTERACTIVE HOVER-ANIMATED ICONS -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,aws,linux,git,github,vscode,html,css,bash&theme=dark&perline=5" alt="Tech Stack" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,aws,linux,bash,git,github,vscode&theme=dark&perline=6" alt="Python, C, Java, HTML, CSS, AWS, Linux, Bash, Git, GitHub and VS Code" />
 </p>
 
----
+## Selected projects
 
-## 📊 Live GitHub Activity & Streak
+| Project | What it is |
+| --- | --- |
+| [SORTIX](https://github.com/crypt-zubair/sortix-ml) | AI-assisted waste classification and segregation project. |
+| [Jarvis](https://github.com/crypt-zubair/jarvis) | Personal assistant project exploring local automation and AI workflows. |
+| [SkillRack Solutions](https://github.com/crypt-zubair/skillrack-solutions) | A collection of programming practice solutions. |
+| [Cloud Computing Internship](https://github.com/crypt-zubair/CodeAlpha_CloudComputing) | Work and learning from my cloud-computing internship. |
+| [LeetCode Daily](https://github.com/crypt-zubair/leetcode-daily) | Coding practice and problem-solving progress. |
+
+## Certifications
+
+- **Oracle Cloud Infrastructure Certified Foundations Associate**
+- **Oracle Agentic AI Foundation Associate**
+
+## Problem solving
+
+- **500+** problems solved on SkillRack
+- **54** LeetCode problems solved
+- **17** GeeksforGeeks problems solved
+
+*Counts change as I practise. Some problems may overlap across platforms.*
+
+## GitHub at a glance
 
 <div align="center">
 
-  <!-- 3. ANIMATED STREAK CARD -->
-  <a href="https://github.com/crypt-zubair">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crypt-zubair&theme=dark&background=0D1117&border=A855F7&stroke=A855F7&ring=00F0FF&fire=A855F7&currStreakNum=00F0FF&sideNums=E2E8F0&sideTitle=A855F7&currStreakLabel=00F0FF&hide_border=false" alt="GitHub Streak Box" />
-  </a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
-  <br /><br />
+</div>
 
-  <!-- 4. LIVE METRIC BADGES -->
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-A855F7?style=for-the-badge&labelColor=0D1117" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Problems Solved Badge" />
-  <img src="https://img.shields.io/badge/AWS%20Training-3%20Certifications-7000FF?style=for-the-badge&labelColor=0D1117" alt="AWS Certifications Badge" />
+---
 
+<div align="center">
+  <sub>Learning consistently. Building thoughtfully. Improving one commit at a time.</sub>
 </div>
