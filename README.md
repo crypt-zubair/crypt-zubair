@@ -1,34 +1,36 @@
 <div align="center">
 
-<p align="center"><img width="100%" src="./assets/profile-banner.svg?v=4" alt="Zubair Ahmed - classic terminal green hacker banner" /></p>
+<p align="center"><img width="100%" src="./assets/profile-banner.svg?v=5" alt="Zubair Ahmed - Matrix terminal hacker banner" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Animated typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=00FF00&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Terminal-green animated intro" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-181717?style=flat-square&logo=github)](https://github.com/crypt-zubair)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zubair-ahmed-98z)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zub.airrr.mail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-050505?style=flat-square&logo=github&logoColor=00FF00)](https://github.com/crypt-zubair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-050505?style=flat-square&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/zubair-ahmed-98z)
+[![Email](https://img.shields.io/badge/Email-Contact-050505?style=flat-square&logo=gmail&logoColor=00FF00)](mailto:zub.airrr.mail@gmail.com)
 
 </div>
+
 ---
 
-## About
+## `01 // ABOUT`
 
-I'm an Information Technology undergraduate at **St. Joseph's Institute of Technology, Chennai**. I'm interested in software development, cloud computing, AI-powered tools, and problem solving.
+> `$ whoami`  
+> IT undergraduate at **St. Joseph's Institute of Technology, Chennai**, interested in software development, cloud computing, AI-powered tools, and problem solving.
 
-- Building projects that solve practical problems
-- Practising data structures, algorithms, and SQL
-- Exploring cloud infrastructure, Linux, and automation
-- Learning by shipping projects and contributing to open source
+- `[+]` Building projects that solve practical problems
+- `[+]` Practising data structures, algorithms, and SQL
+- `[+]` Exploring cloud infrastructure, Linux, and automation
+- `[+]` Learning by shipping projects and contributing to open source
 
-## Tech I work with
+## `02 // TECH STACK`
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,aws,linux,bash,git,github,vscode&theme=dark&perline=6" alt="Python, C, Java, HTML, CSS, AWS, Linux, Bash, Git, GitHub and VS Code" />
 </p>
 
-## Selected projects
+## `03 // SELECTED PROJECTS`
 
-| Project | What it is |
+| `PROJECT` | `DESCRIPTION` |
 | --- | --- |
 | [SORTIX](https://github.com/crypt-zubair/sortix-ml) | AI-assisted waste classification and segregation project. |
 | [Jarvis](https://github.com/crypt-zubair/jarvis) | Personal assistant project exploring local automation and AI workflows. |
@@ -36,30 +38,34 @@ I'm an Information Technology undergraduate at **St. Joseph's Institute of Techn
 | [Cloud Computing Internship](https://github.com/crypt-zubair/CodeAlpha_CloudComputing) | Work and learning from my cloud-computing internship. |
 | [LeetCode Daily](https://github.com/crypt-zubair/leetcode-daily) | Coding practice and problem-solving progress. |
 
-## Certifications
+## `04 // CERTIFICATIONS`
 
-- **Oracle Cloud Infrastructure Certified Foundations Associate**
-- **Oracle Agentic AI Foundation Associate**
+- `[VERIFIED]` **Oracle Cloud Infrastructure Certified Foundations Associate**
+- `[VERIFIED]` **Oracle Agentic AI Foundation Associate**
 
-## Problem solving
+## `05 // PROBLEM-SOLVING LOG`
 
 - **500+** problems solved on SkillRack
 - **54** LeetCode problems solved
 - **17** GeeksforGeeks problems solved
 
-*Counts change as I practise. Some problems may overlap across platforms.*
+> `NOTE:` Counts change as I practise. Some problems may overlap across platforms.
 
-## GitHub at a glance
+## `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=crypt-zubair&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt-zubair&layout=compact&hide_border=true&theme=chartreuse-dark" alt="Most used languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Learning consistently. Building thoughtfully. Improving one commit at a time.</sub>
+
+`[ SYSTEM STATUS: LEARNING // BUILDING // ITERATING ]`
+
+<sub>One commit at a time. Stay curious. Keep building.</sub>
+
 </div>
