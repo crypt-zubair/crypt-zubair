@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,35:4b00a8,70:0077ff,100:00e5ff&height=210&section=header&text=Zubair%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Learning%20Cloud%20%26%20AI&descAlignY=60&descSize=16" alt="Neon profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zubair%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Learning%20Cloud%20%26%20AI&descAlignY=58&descSize=16" alt="Zubair Ahmed profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Animated typing intro" />
 
