@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,35:4b00a8,70:0077ff,100:00e5ff&height=240&section=header&text=Zubair%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DEVELOPER%20%7C%20CLOUD%20%7C%20AI%20%7C%20OPEN%20SOURCE&descAlignY=60&descSize=17" alt="Neon animated profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,35:4b00a8,70:0077ff,100:00e5ff&height=210&section=header&text=Zubair%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Learning%20Cloud%20%26%20AI&descAlignY=60&descSize=16" alt="Neon profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&height=45&lines=Building+projects+that+solve+real+problems;Exploring+Cloud%2C+Linux+%26+AI;Learning+one+commit+at+a+time" alt="Animated typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Animated typing intro" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-181717?style=flat-square&logo=github)](https://github.com/crypt-zubair)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zubair-ahmed-98z)
