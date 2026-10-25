@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Zubair Ahmed - Neon Matrix</title>
-  <desc id="desc">Dark cyberpunk banner with glowing green Matrix rain and cyan neon text.</desc>
+  <desc id="desc">Classic black terminal banner with vivid monochrome hacker-green text and subtle Matrix code.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#030712"/>
@@ -8,26 +8,25 @@
       <stop offset="1" stop-color="#100522"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset="0" stop-color="#00ff00" stop-opacity="0"/>
       <stop offset=".5" stop-color="#00ff9c" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00ff00" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#d9ffd9"/>
-      <stop offset=".5" stop-color="#39ff14"/>
-      <stop offset="1" stop-color="#008f11"/>
+      <stop offset="0" stop-color="#00ff00"/>
+      <stop offset="1" stop-color="#00ff00"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#0bff9b" stroke-opacity=".08" stroke-width="1"/>
+      <path d="M44 0H0V44" fill="none" stroke="#00ff00" stroke-opacity=".08" stroke-width="1"/>
     </pattern>
   </defs>
   <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="300" rx="20" fill="url(#grid)" opacity=".45"/>
-  <g fill="#00ff9c" font-family="monospace" font-size="18" opacity=".16">
+  <g fill="#00ff00" font-family="monospace" font-size="18" opacity=".10">
     <text x="45" y="40">010010</text><text x="105" y="78">101101</text><text x="175" y="34">110010</text>
     <text x="250" y="66">001101</text><text x="330" y="38">101010</text><text x="410" y="76">010011</text>
     <text x="500" y="36">110101</text><text x="590" y="65">010110</text><text x="690" y="34">101001</text>
@@ -45,8 +44,8 @@
     <rect x="1090" y="122" width="2" height="55" rx="2"/><rect x="88" y="125" width="2" height="54" rx="2"/>
   </g>
   
-  <text x="600" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="2" fill="url(#name)" filter="url(#glow)">ZUBAIR AHMED</text>
-  <text x="600" y="225" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="2" fill="#39ff14">IT Student <tspan fill="#00ff9c">|</tspan> Learning Cloud &amp; AI</text>
+  <text x="600" y="190" text-anchor="middle" font-family="monospace" font-size="54" font-weight="700" letter-spacing="2" fill="#00ff00" filter="url(#glow)">ZUBAIR AHMED</text>
+  <text x="600" y="225" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="2" fill="#00ff00">IT Student <tspan fill="#00ff9c">|</tspan> Learning Cloud &amp; AI</text>
   <text x="600" y="265" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="4" fill="#39ff14">BUILD // LEARN // REPEAT</text>
-  <rect x="1" y="1" width="1198" height="298" rx="20" fill="none" stroke="#00ff9c" stroke-opacity=".3" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="none" stroke="#00ff00" stroke-opacity=".3" stroke-width="2"/>
 </svg>
