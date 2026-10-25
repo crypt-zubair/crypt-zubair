@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img width="100%" src="./assets/profile-banner.svg" alt="Zubair Ahmed - neon Matrix profile banner" /></p>
+<p align="center"><img width="100%" src="./assets/profile-banner.svg?v=4" alt="Zubair Ahmed - classic terminal green hacker banner" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Animated typing intro" />
 
