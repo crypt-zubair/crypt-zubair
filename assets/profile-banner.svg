@@ -26,6 +26,12 @@
   </defs>
   <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="300" rx="20" fill="url(#grid)" opacity=".45"/>
+  <g fill="#00ff00" font-family="monospace" font-size="17" opacity=".25">
+    <text x="28" y="28">0</text><text x="28" y="48">1</text><text x="28" y="68">0</text><text x="28" y="88">1</text><text x="28" y="108">1</text><text x="28" y="128">0</text><text x="28" y="148">1</text><text x="28" y="168">0</text><text x="28" y="188">0</text><text x="28" y="208">1</text><text x="28" y="228">0</text><text x="28" y="248">1</text><text x="28" y="268">0</text><text x="28" y="288">1</text>
+    <text x="49" y="28">1</text><text x="49" y="48">0</text><text x="49" y="68">1</text><text x="49" y="88">0</text><text x="49" y="108">0</text><text x="49" y="128">1</text><text x="49" y="148">0</text><text x="49" y="168">1</text><text x="49" y="188">1</text><text x="49" y="208">0</text><text x="49" y="228">1</text><text x="49" y="248">0</text><text x="49" y="268">1</text><text x="49" y="288">0</text>
+    <text x="1150" y="28">1</text><text x="1150" y="48">0</text><text x="1150" y="68">1</text><text x="1150" y="88">0</text><text x="1150" y="108">1</text><text x="1150" y="128">1</text><text x="1150" y="148">0</text><text x="1150" y="168">1</text><text x="1150" y="188">0</text><text x="1150" y="208">1</text><text x="1150" y="228">0</text><text x="1150" y="248">1</text><text x="1150" y="268">0</text><text x="1150" y="288">1</text>
+    <text x="1171" y="28">0</text><text x="1171" y="48">1</text><text x="1171" y="68">0</text><text x="1171" y="88">1</text><text x="1171" y="108">0</text><text x="1171" y="128">0</text><text x="1171" y="148">1</text><text x="1171" y="168">0</text><text x="1171" y="188">1</text><text x="1171" y="208">0</text><text x="1171" y="228">1</text><text x="1171" y="248">0</text><text x="1171" y="268">1</text><text x="1171" y="288">0</text>
+  </g>
   <g fill="#00ff00" font-family="monospace" font-size="18" opacity=".10">
     <text x="45" y="40">010010</text><text x="105" y="78">101101</text><text x="175" y="34">110010</text>
     <text x="250" y="66">001101</text><text x="330" y="38">101010</text><text x="410" y="76">010011</text>
@@ -44,8 +50,8 @@
     <rect x="1090" y="122" width="2" height="55" rx="2"/><rect x="88" y="125" width="2" height="54" rx="2"/>
   </g>
   
-  <text x="600" y="190" text-anchor="middle" font-family="monospace" font-size="54" font-weight="700" letter-spacing="2" fill="#00ff00" filter="url(#glow)">ZUBAIR AHMED</text>
-  <text x="600" y="225" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="2" fill="#00ff00">IT Student <tspan fill="#00ff9c">|</tspan> Learning Cloud &amp; AI</text>
+  <text x="600" y="190" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="54" font-weight="700" letter-spacing="2" fill="#00ff00" filter="url(#glow)">ZUBAIR AHMED</text>
+  <text x="600" y="225" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="19" letter-spacing="2" fill="#00ff00">IT Student <tspan fill="#00ff9c">|</tspan> Learning Cloud &amp; AI</text>
   <text x="600" y="265" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="4" fill="#39ff14">BUILD // LEARN // REPEAT</text>
   <rect x="1" y="1" width="1198" height="298" rx="20" fill="none" stroke="#00ff00" stroke-opacity=".3" stroke-width="2"/>
 </svg>
