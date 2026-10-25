@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Zubair Ahmed - Neon Matrix</title>
+  <desc id="desc">Dark cyberpunk banner with glowing green Matrix rain and cyan neon text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".55" stop-color="#071525"/>
+      <stop offset="1" stop-color="#100522"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ff9c" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5fff9"/>
+      <stop offset=".55" stop-color="#5dffbd"/>
+      <stop offset="1" stop-color="#65eaff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#0bff9b" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <g fill="#00ff9c" font-family="monospace" font-size="18" opacity=".48">
+    <text x="45" y="40">010010</text><text x="105" y="78">101101</text><text x="175" y="34">110010</text>
+    <text x="250" y="66">001101</text><text x="330" y="38">101010</text><text x="410" y="76">010011</text>
+    <text x="500" y="36">110101</text><text x="590" y="65">010110</text><text x="690" y="34">101001</text>
+    <text x="790" y="72">001011</text><text x="890" y="36">110010</text><text x="990" y="68">101101</text>
+    <text x="1080" y="36">011010</text><text x="1130" y="80">101100</text>
+    <text x="40" y="250">101101</text><text x="150" y="278">010011</text><text x="270" y="248">110010</text>
+    <text x="390" y="280">101010</text><text x="520" y="250">011101</text><text x="660" y="278">110010</text>
+    <text x="800" y="250">010110</text><text x="920" y="278">101001</text><text x="1050" y="250">110101</text>
+  </g>
+  <g stroke="url(#line)" stroke-width="2" opacity=".8">
+    <path d="M0 95H1200"/><path d="M0 205H1200"/>
+  </g>
+  <g filter="url(#glow)" fill="#00ff9c" opacity=".85">
+    <rect x="65" y="104" width="3" height="85" rx="2"/><rect x="1110" y="102" width="3" height="88" rx="2"/>
+    <rect x="1090" y="122" width="2" height="55" rx="2"/><rect x="88" y="125" width="2" height="54" rx="2"/>
+  </g>
+  <text x="600" y="139" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="7" fill="#00ff9c" filter="url(#glow)">SYSTEM ONLINE // PROFILE INITIALIZED</text>
+  <text x="600" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="2" fill="url(#name)" filter="url(#glow)">ZUBAIR AHMED</text>
+  <text x="600" y="225" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="2" fill="#d8fff0">IT Student <tspan fill="#00ff9c">|</tspan> Learning Cloud &amp; AI</text>
+  <text x="600" y="265" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="4" fill="#00b7a5">BUILD // LEARN // REPEAT</text>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="none" stroke="#00ff9c" stroke-opacity=".45" stroke-width="2"/>
+</svg>
