@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zubair Ahmed A. B.
+# Zubair Ahmed A B
 
 ### IT Undergraduate · Developer · Cloud & AI Explorer
 
