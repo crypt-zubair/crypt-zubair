@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img width="100%" src="https://placehold.co/1200x180/09001f/8b5cf6?text=Zubair+Ahmed+%7C+IT+Student+%7C+Learning+Cloud+%26+AI" alt="Zubair Ahmed - IT Student - Learning Cloud and AI" /></p>
+<p align="center"><img width="100%" src="./assets/profile-banner.svg" alt="Zubair Ahmed - neon Matrix profile banner" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Animated typing intro" />
 
