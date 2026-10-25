@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img width="100%" src="./assets/profile-banner.svg?v=7" alt="Zubair Ahmed - Matrix terminal hacker banner" /></p>
+<p align="center"><img width="100%" src="./assets/profile-banner.svg?v=8" alt="Zubair Ahmed - Matrix terminal hacker banner" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=00FF00&center=true&vCenter=true&width=650&height=35&lines=Learning+by+building;Exploring+Python%2C+Cloud+%26+AI;One+step+at+a+time" alt="Terminal-green animated intro" />
 
