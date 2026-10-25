@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=190&section=header&text=Zubair%20Ahmed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Cloud%20%26%20AI%20Explorer&descAlignY=58&descSize=16" alt="Animated gradient header" />
+![Animated gradient header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=Zubair%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&height=45&lines=Building+projects+that+solve+real+problems;Exploring+Cloud%2C+Linux+%26+AI;Learning+one+commit+at+a+time" alt="Animated typing intro" />
 
