@@ -1,17 +1,14 @@
 <div align="center">
 
-# Zubair Ahmed A B
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=190&section=header&text=Zubair%20Ahmed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Cloud%20%26%20AI%20Explorer&descAlignY=58&descSize=16" alt="Animated gradient header" />
 
-### IT Undergraduate · Developer · Cloud & AI Explorer
-
-I build practical projects, solve problems, and keep learning how software works under the hood.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&height=45&lines=Building+projects+that+solve+real+problems;Exploring+Cloud%2C+Linux+%26+AI;Learning+one+commit+at+a+time" alt="Animated typing intro" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-181717?style=flat-square&logo=github)](https://github.com/crypt-zubair)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/zubair-ahmed-98z)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zub.airrr.mail@gmail.com)
 
 </div>
-
 ---
 
 ## About
