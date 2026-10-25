@@ -2,6 +2,8 @@
 
 ![Animated gradient header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=Zubair%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
+<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="180" alt="Confetti animation" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&height=45&lines=Building+projects+that+solve+real+problems;Exploring+Cloud%2C+Linux+%26+AI;Learning+one+commit+at+a+time" alt="Animated typing intro" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-crypt--zubair-181717?style=flat-square&logo=github)](https://github.com/crypt-zubair)
